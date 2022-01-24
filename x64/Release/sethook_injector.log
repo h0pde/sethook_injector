@@ -1,0 +1,7 @@
+﻿  injection.cpp
+  sethook_injector.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 57 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  sethook_injector.vcxproj -> C:\Users\h0pde\source\repos\sethook_injector\x64\Release\sethook_injector.exe
